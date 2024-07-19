@@ -1,0 +1,202 @@
+[
+ {
+  "name" : "CRYPTO", 
+  "rank" : "A*", 
+  "deadline" : "2024-02-13T23:59:59-12:00", 
+  "notification" : "2024-05-03T23:59:59-12:00",
+  "date" : "2024-08-18",
+  "location" : "Santa Barbara, CA, USA"
+ },
+ {
+  "name" : "Eurocrypt",
+  "rank" : "A*",
+  "deadline" : "2023-09-04T23:59:59-12:00",
+  "date" : "2026-05-26",
+  "notification" : "",
+  "location" : "Zurich, Switzerland"
+ },
+ {
+  "name" : "S&P",
+  "rank" : "A*",
+  "deadline" : "2024-06-06T23:59:59-12:00",
+  "notification" : "2024-09-09T23:59:59-12:00",
+  "date" : "",
+  "location" : "San Francisco, CA, USA"
+ },
+ {
+  "name" : "Usenix Security",
+  "rank" : "A*",
+  "deadline" : "2024-09-04T23:59:59-12:00",
+  "notification" : "2024-12-11T23:59:59-12:00",
+  "date" : "2025-08-13",
+  "location" : "Seattle, WA, USA"
+ },
+ {
+  "name" : "Usenix Security",
+  "rank" : "A*",
+  "deadline" : "2025-01-22T23:59:59-12:00",
+  "notification" : "2025-04-30T23:59:59-12:00",
+  "date" : "2025-08-13",
+  "location" : "Seattle, WA, USA"
+ },
+ {
+  "name" : "CCS",
+  "rank" : "A*",
+  "deadline" : "",
+  "notification" : "",
+  "date" : "",
+  "location" : ""
+ },
+ {
+  "name" : "CHES",
+  "rank" : "A",
+  "deadline" : "2024-07-15T23:59:59-12:00",
+  "notification" : "2024-09-15T23:59:59-12:00",
+  "date" : "",
+  "location" : "Kuala Lumpur, Malaysia"
+ },
+ {
+  "name" : "CHES",
+  "rank" : "A",
+  "deadline" : "2024-10-15T23:59:59-12:00",
+  "notification" : "2024-12-15T23:59:59-12:00",
+  "date" : "",
+  "location" : "Kuala Lumpur, Malaysia"
+ },
+ {
+  "name" : "CHES",
+  "rank" : "A",
+  "deadline" : "2025-01-15T23:59:59-12:00",
+  "notification" : "2025-03-15T23:59:59-12:00",
+  "date" : "",
+  "location" : "Kuala Lumpur, Malaysia"
+ },
+ {
+  "name" : "CHES",
+  "rank" : "A",
+  "deadline" : "2025-04-15T23:59:59-12:00",
+  "notification" : "2025-06-15T23:59:59-12:00",
+  "date" : "",
+  "location" : "Kuala Lumpur, Malaysia"
+ },
+ {
+  "name" : "RAID",
+  "rank" : "A",
+  "deadline" : "2024-04-15T23:59:59-12:00",
+  "notification" : "2024-06-24T23:59:59-12:00",
+  "date" : "2024-09-30",
+  "location" : "Padua, Italy"
+ },
+ {
+  "name" : "AsiaCCS",
+  "rank" : "A",
+  "deadline" : "2024-09-20T23:59:59-12:00",
+  "notification" : "2024-12-13T23:59:59-12:00",
+  "date" : "2025-08-25",
+  "location" : "Hanoi, Vietnam"
+ },
+ {
+  "name" : "AsiaCCS",
+  "rank" : "A",
+  "deadline" : "2025-01-15T23:59:59-12:00",
+  "notification" : "2025-04-19T23:59:59-12:00",
+  "date" : "2025-08-25",
+  "location" : "Hanoi, Vietnam"
+ },
+ {
+  "name" : "ACSAC",
+  "rank" : "A",
+  "deadline" : "2024-05-28T23:59:59-12:00",
+  "notification" : "2024-07-08T23:59:59-12:00",
+  "date" : "2024-12-09",
+  "location" : "Waikiki, HI, USA"
+ },
+ {
+  "name" : "Asiacrypt",
+  "rank" : "A",
+  "deadline" : "2024-05-26T23:59:59-12:00",
+  "notification" : "2024-08-25T23:59:59-12:00",
+  "date" : "2024-12-09",
+  "location" : "Kolkata, India"
+ },
+ {
+  "name" : "PKC",
+  "rank" : "A",
+  "deadline" : "2024-10-16T23:59:59-12:00",
+  "notification" : "",
+  "date" : "",
+  "location" : "Roros, Norway"
+ },
+ {
+  "name" : "ESORICS",
+  "rank" : "A",
+  "deadline" : "",
+  "notification" : "",
+  "date" : "",
+  "location" : ""
+ },
+ {
+  "name" : "CT-RSA",
+  "rank" : "B",
+  "deadline" : "",
+  "notification" : "",
+  "date" : "",
+  "location" : "San Francisco, CA, USA"
+ },
+ {
+  "name" : "ACNS",
+  "rank" : "B",
+  "deadline" : "",
+  "notification" : "",
+  "date" : "",
+  "location" : "Munich, Germany"
+ },
+ {
+  "name" : "DATE",
+  "rank" : "B",
+  "deadline" : "2024-09-15T23:59:59-12:00",
+  "notification" : "",
+  "date" : "",
+  "location" : "Lyon, France"
+ },
+ {
+  "name" : "PQCrypto",
+  "rank" : "B",
+  "deadline" : "",
+  "notification" : "",
+  "date" : "",
+  "location" : ""
+ },
+ {
+  "name" : "ARES",
+  "rank" : "B",
+  "deadline" : "",
+  "notification" : "",
+  "date" : "",
+  "location" : ""
+ },
+ {
+  "name" : "HOST",
+  "rank" : "B",
+  "deadline" : "",
+  "notification" : "",
+  "date" : "",
+  "location" : ""
+ },
+ {
+  "name" : "CANS",
+  "rank" : "B",
+  "deadline" : "",
+  "notification" : "",
+  "date" : "",
+  "location" : ""
+ },
+ {
+  "name" : "Cardis",
+  "rank" : "B",
+  "deadline" : "",
+  "notification" : "",
+  "date" : "",
+  "location" : ""
+ }
+]
