@@ -10,10 +10,10 @@
  {
   "name" : "Eurocrypt",
   "rank" : "A*",
-  "deadline" : "2023-09-04T23:59:59-12:00",
-  "date" : "2026-05-26",
-  "notification" : "",
-  "location" : "Zurich, Switzerland"
+  "deadline" : "2024-10-02T23:59:59-12:00",
+  "date" : "2025-05-04",
+  "notification" : "2025-01-31T23:59:59-12:00",
+  "location" : "Madrid, Spain"
  },
  {
   "name" : "S&P",
@@ -132,7 +132,7 @@
   "rank" : "A",
   "deadline" : "2024-10-16T23:59:59-12:00",
   "notification" : "",
-  "date" : "",
+  "date" : "2025-05-12",
   "location" : "Roros, Norway"
  },
  {
@@ -154,9 +154,17 @@
  {
   "name" : "ACNS",
   "rank" : "B",
-  "deadline" : "",
-  "notification" : "",
-  "date" : "",
+  "deadline" : "2024-09-09T23:59:59-12:00",
+  "notification" : "2024-11-09T23:59:59-12:00",
+  "date" : "2025-06-23",
+  "location" : "Munich, Germany"
+ },
+ {
+  "name" : "ACNS",
+  "rank" : "B",
+  "deadline" : "2025-01-13T23:59:59-12:00",
+  "notification" : "2024-03-17T23:59:59-12:00",
+  "date" : "2025-06-23",
   "location" : "Munich, Germany"
  },
  {
@@ -200,7 +208,7 @@
   "location" : ""
  },
  {
-  "name" : "Cardis",
+  "name" : "CASCADE",
   "rank" : "B",
   "deadline" : "",
   "notification" : "",
