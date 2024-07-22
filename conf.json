@@ -144,6 +144,14 @@
   "location" : ""
  },
  {
+  "name" : "EuroS&P",
+  "rank" : "A",
+  "deadline" : "",
+  "notification" : "",
+  "date" : "2025-06-30",
+  "location" : "Venice, Italy"
+ },
+ {
   "name" : "CT-RSA",
   "rank" : "B",
   "deadline" : "",
@@ -172,7 +180,7 @@
   "rank" : "B",
   "deadline" : "2024-09-15T23:59:59-12:00",
   "notification" : "",
-  "date" : "",
+  "date" : "2025-03-31",
   "location" : "Lyon, France"
  },
  {
@@ -181,7 +189,7 @@
   "deadline" : "",
   "notification" : "",
   "date" : "",
-  "location" : ""
+  "location" : "Taipei, Taiwan"
  },
  {
   "name" : "ARES",
@@ -194,25 +202,49 @@
  {
   "name" : "HOST",
   "rank" : "B",
-  "deadline" : "",
-  "notification" : "",
-  "date" : "",
-  "location" : ""
+  "deadline" : "2024-08-19T23:59:59-12:00",
+  "notification" : "2024-10-27T23:59:59-12:00",
+  "date" : "2025-05-05",
+  "location" : "San Jose, USA"
+ },
+ {
+  "name" : "HOST",
+  "rank" : "B",
+  "deadline" : "2024-12-09T23:59:59-12:00",
+  "notification" : "2025-02-17T23:59:59-12:00",
+  "date" : "2025-05-05",
+  "location" : "San Jose, USA"
  },
  {
   "name" : "CANS",
   "rank" : "B",
   "deadline" : "",
   "notification" : "",
-  "date" : "",
-  "location" : ""
+  "date" : "2024-09-24",
+  "location" : "Cambridge, United Kingdom"
  },
  {
   "name" : "CASCADE",
-  "rank" : "B",
-  "deadline" : "",
-  "notification" : "",
-  "date" : "",
-  "location" : ""
- }
+  "rank" : "unranked",
+  "deadline" : "2024-09-17T23:59:59-12:00",
+  "notification" : "2024-12-01T23:59:59-12:00",
+  "date" : "2025-04-02",
+  "location" : "Saint-Etienne, France"
+ },
+ {
+  "name" : "CASCADE",
+  "rank" : "unranked",
+  "deadline" : "2024-12-17T23:59:59-12:00",
+  "notification" : "2025-02-22T23:59:59-12:00",
+  "date" : "2025-04-02",
+  "location" : "Saint-Etienne, France"
+ },
+ {
+  "name" : "ArcticCrypt",
+  "rank" : "unranked",
+  "deadline" : "2024-09-13T23:59:59-12:00",
+  "notification" : "2024-10-23T23:59:59-12:00",
+  "date" : "2025-07-06",
+  "location" : "Longyearbyen, Svalbard"
+ },
 ]
