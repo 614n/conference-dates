@@ -179,7 +179,7 @@
   "name" : "DATE",
   "rank" : "B",
   "deadline" : "2024-09-15T23:59:59-12:00",
-  "notification" : "",
+  "notification" : "2024-11-19T23:59:59-12:00",
   "date" : "2025-03-31",
   "location" : "Lyon, France"
  },
@@ -205,7 +205,7 @@
   "deadline" : "2024-08-19T23:59:59-12:00",
   "notification" : "2024-10-27T23:59:59-12:00",
   "date" : "2025-05-05",
-  "location" : "San Jose, USA"
+  "location" : "San Jose, CA, USA"
  },
  {
   "name" : "HOST",
@@ -213,7 +213,7 @@
   "deadline" : "2024-12-09T23:59:59-12:00",
   "notification" : "2025-02-17T23:59:59-12:00",
   "date" : "2025-05-05",
-  "location" : "San Jose, USA"
+  "location" : "San Jose, CA, USA"
  },
  {
   "name" : "CANS",
