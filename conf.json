@@ -154,9 +154,9 @@
  {
   "name" : "CT-RSA",
   "rank" : "B",
-  "deadline" : "",
-  "notification" : "",
-  "date" : "",
+  "deadline" : "2024-10-15T23:59:59-12:00",
+  "notification" : "2025-01-10T23:59:59-12:00",
+  "date" : "2025-04-28",
   "location" : "San Francisco, CA, USA"
  },
  {
