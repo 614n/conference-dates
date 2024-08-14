@@ -26,8 +26,8 @@
  {
   "name" : "S&P",
   "rank" : "A*",
-  "deadline" : "2024-11-19T23:59:59-12:00",
-  "notification" : "2025-01-20T23:59:59-12:00",
+  "deadline" : "2024-11-14T23:59:59-12:00",
+  "notification" : "2025-03-10T23:59:59-12:00",
   "date" : "2025-05-12",
   "location" : "San Francisco, CA, USA"
  },
