@@ -68,7 +68,8 @@
   "deadline" : "2024-07-15T23:59:59-12:00",
   "notification" : "2024-09-15T23:59:59-12:00",
   "date" : "",
-  "location" : "Kuala Lumpur, Malaysia"
+  "location" : "Kuala Lumpur, Malaysia",
+  "cfp" : "https://ches.iacr.org/2025/callforpapers.php"
  },
  {
   "name" : "CHES",
