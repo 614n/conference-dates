@@ -5,7 +5,8 @@
   "deadline" : "2024-02-13T23:59:59-12:00", 
   "notification" : "2024-05-03T23:59:59-12:00",
   "date" : "2024-08-18",
-  "location" : "Santa Barbara, CA, USA"
+  "location" : "Santa Barbara, CA, USA",
+  "cfp" : "https://crypto.iacr.org/2024/callforpapers.php"
  },
  {
   "name" : "Eurocrypt",
@@ -13,7 +14,8 @@
   "deadline" : "2024-10-02T23:59:59-12:00",
   "date" : "2025-05-04",
   "notification" : "2025-01-31T23:59:59-12:00",
-  "location" : "Madrid, Spain"
+  "location" : "Madrid, Spain",
+  "cfp" : "https://eurocrypt.iacr.org/2025/callforpapers.php"
  },
  {
   "name" : "S&P",
@@ -21,7 +23,8 @@
   "deadline" : "2024-06-06T23:59:59-12:00",
   "notification" : "2024-09-09T23:59:59-12:00",
   "date" : "2025-05-12",
-  "location" : "San Francisco, CA, USA"
+  "location" : "San Francisco, CA, USA",
+  "cfp" : "https://sp2025.ieee-security.org/cfpapers.html"
  },
  {
   "name" : "S&P",
@@ -29,7 +32,8 @@
   "deadline" : "2024-11-14T23:59:59-12:00",
   "notification" : "2025-03-10T23:59:59-12:00",
   "date" : "2025-05-12",
-  "location" : "San Francisco, CA, USA"
+  "location" : "San Francisco, CA, USA",
+  "cfp" : "https://sp2025.ieee-security.org/cfpapers.html"
  },
  {
   "name" : "Usenix Security",
@@ -37,7 +41,8 @@
   "deadline" : "2024-09-04T23:59:59-12:00",
   "notification" : "2024-12-11T23:59:59-12:00",
   "date" : "2025-08-13",
-  "location" : "Seattle, WA, USA"
+  "location" : "Seattle, WA, USA",
+  "cfp" : "https://www.usenix.org/conference/usenixsecurity25/call-for-papers"
  },
  {
   "name" : "Usenix Security",
@@ -45,7 +50,8 @@
   "deadline" : "2025-01-22T23:59:59-12:00",
   "notification" : "2025-04-30T23:59:59-12:00",
   "date" : "2025-08-13",
-  "location" : "Seattle, WA, USA"
+  "location" : "Seattle, WA, USA",
+  "cfp" : "https://www.usenix.org/conference/usenixsecurity25/call-for-papers"
  },
  {
   "name" : "CCS",
@@ -53,7 +59,8 @@
   "deadline" : "",
   "notification" : "",
   "date" : "",
-  "location" : ""
+  "location" : "",
+  "cfp" : ""
  },
  {
   "name" : "CHES",
@@ -69,7 +76,8 @@
   "deadline" : "2024-10-15T23:59:59-12:00",
   "notification" : "2024-12-15T23:59:59-12:00",
   "date" : "",
-  "location" : "Kuala Lumpur, Malaysia"
+  "location" : "Kuala Lumpur, Malaysia",
+  "cfp" : "https://ches.iacr.org/2025/callforpapers.php"
  },
  {
   "name" : "CHES",
@@ -77,7 +85,8 @@
   "deadline" : "2025-01-15T23:59:59-12:00",
   "notification" : "2025-03-15T23:59:59-12:00",
   "date" : "",
-  "location" : "Kuala Lumpur, Malaysia"
+  "location" : "Kuala Lumpur, Malaysia",
+  "cfp" : "https://ches.iacr.org/2025/callforpapers.php"
  },
  {
   "name" : "CHES",
@@ -85,7 +94,8 @@
   "deadline" : "2025-04-15T23:59:59-12:00",
   "notification" : "2025-06-15T23:59:59-12:00",
   "date" : "",
-  "location" : "Kuala Lumpur, Malaysia"
+  "location" : "Kuala Lumpur, Malaysia",
+  "cfp" : "https://ches.iacr.org/2025/callforpapers.php"
  },
  {
   "name" : "RAID",
@@ -93,7 +103,8 @@
   "deadline" : "2024-04-15T23:59:59-12:00",
   "notification" : "2024-06-24T23:59:59-12:00",
   "date" : "2024-09-30",
-  "location" : "Padua, Italy"
+  "location" : "Padua, Italy",
+  "cfp" : "https://raid2024.github.io/call.html"
  },
  {
   "name" : "AsiaCCS",
@@ -101,7 +112,8 @@
   "deadline" : "2024-09-20T23:59:59-12:00",
   "notification" : "2024-12-13T23:59:59-12:00",
   "date" : "2025-08-25",
-  "location" : "Hanoi, Vietnam"
+  "location" : "Hanoi, Vietnam",
+  "cfp" : "https://asiaccs2025.hust.edu.vn/call-for-papers/"
  },
  {
   "name" : "AsiaCCS",
@@ -109,7 +121,8 @@
   "deadline" : "2025-01-15T23:59:59-12:00",
   "notification" : "2025-04-19T23:59:59-12:00",
   "date" : "2025-08-25",
-  "location" : "Hanoi, Vietnam"
+  "location" : "Hanoi, Vietnam",
+  "cfp" : "https://asiaccs2025.hust.edu.vn/call-for-papers/"
  },
  {
   "name" : "ACSAC",
@@ -117,7 +130,8 @@
   "deadline" : "2024-05-28T23:59:59-12:00",
   "notification" : "2024-07-08T23:59:59-12:00",
   "date" : "2024-12-09",
-  "location" : "Waikiki, HI, USA"
+  "location" : "Waikiki, HI, USA",
+  "cfp" : "https://www.acsac.org/2024/submissions/papers/"
  },
  {
   "name" : "Asiacrypt",
@@ -125,7 +139,8 @@
   "deadline" : "2024-05-26T23:59:59-12:00",
   "notification" : "2024-08-25T23:59:59-12:00",
   "date" : "2024-12-09",
-  "location" : "Kolkata, India"
+  "location" : "Kolkata, India",
+  "cfp" : "https://asiacrypt.iacr.org/2024/callforpapers.php"
  },
  {
   "name" : "PKC",
@@ -133,7 +148,8 @@
   "deadline" : "2024-10-16T23:59:59-12:00",
   "notification" : "",
   "date" : "2025-05-12",
-  "location" : "Roros, Norway"
+  "location" : "Roros, Norway",
+  "cfp" : "https://pkc.iacr.org/2025/callforpapers.php"
  },
  {
   "name" : "ESORICS",
@@ -141,7 +157,8 @@
   "deadline" : "",
   "notification" : "",
   "date" : "",
-  "location" : ""
+  "location" : "",
+  "cfp" : ""
  },
  {
   "name" : "EuroS&P",
@@ -149,7 +166,8 @@
   "deadline" : "",
   "notification" : "",
   "date" : "2025-06-30",
-  "location" : "Venice, Italy"
+  "location" : "Venice, Italy",
+  "cfp" : "https://eurosp2025.ieee-security.org/cfp.html"
  },
  {
   "name" : "CT-RSA",
@@ -157,7 +175,8 @@
   "deadline" : "2024-10-15T23:59:59-12:00",
   "notification" : "2025-01-10T23:59:59-12:00",
   "date" : "2025-04-28",
-  "location" : "San Francisco, CA, USA"
+  "location" : "San Francisco, CA, USA",
+  "cfp" : "https://ct-rsa-2025.csa.iisc.ac.in"
  },
  {
   "name" : "ACNS",
@@ -165,7 +184,8 @@
   "deadline" : "2024-09-09T23:59:59-12:00",
   "notification" : "2024-11-09T23:59:59-12:00",
   "date" : "2025-06-23",
-  "location" : "Munich, Germany"
+  "location" : "Munich, Germany",
+  "cfp" : "http://acns2025.fordaysec.de/call-for-papers"
  },
  {
   "name" : "ACNS",
@@ -173,7 +193,8 @@
   "deadline" : "2025-01-13T23:59:59-12:00",
   "notification" : "2024-03-17T23:59:59-12:00",
   "date" : "2025-06-23",
-  "location" : "Munich, Germany"
+  "location" : "Munich, Germany",
+  "cfp" : "http://acns2025.fordaysec.de/call-for-papers"
  },
  {
   "name" : "DATE",
@@ -181,7 +202,8 @@
   "deadline" : "2024-09-15T23:59:59-12:00",
   "notification" : "2024-11-19T23:59:59-12:00",
   "date" : "2025-03-31",
-  "location" : "Lyon, France"
+  "location" : "Lyon, France",
+  "cfp" : "https://www.date-conference.com/call-for-papers"
  },
  {
   "name" : "PQCrypto",
@@ -189,7 +211,8 @@
   "deadline" : "2024-10-25T23:59:59-12:00",
   "notification" : "2025-01-06T23:59:59-12:00",
   "date" : "2025-04-08",
-  "location" : "Taipei, Taiwan"
+  "location" : "Taipei, Taiwan",
+  "cfp" : "https://pqcrypto2025.iis.sinica.edu.tw/callforpapers.php"
  },
  {
   "name" : "ARES",
@@ -197,7 +220,8 @@
   "deadline" : "",
   "notification" : "",
   "date" : "",
-  "location" : ""
+  "location" : "",
+  "cfp" : ""
  },
  {
   "name" : "HOST",
@@ -205,7 +229,8 @@
   "deadline" : "2024-08-19T23:59:59-12:00",
   "notification" : "2024-10-27T23:59:59-12:00",
   "date" : "2025-05-05",
-  "location" : "San Jose, CA, USA"
+  "location" : "San Jose, CA, USA",
+  "cfp" : "http://www.hostsymposium.org/call-for-paper.php"
  },
  {
   "name" : "HOST",
@@ -213,7 +238,8 @@
   "deadline" : "2024-12-09T23:59:59-12:00",
   "notification" : "2025-02-17T23:59:59-12:00",
   "date" : "2025-05-05",
-  "location" : "San Jose, CA, USA"
+  "location" : "San Jose, CA, USA",
+  "cfp" : "http://www.hostsymposium.org/call-for-paper.php"
  },
  {
   "name" : "CANS",
@@ -221,7 +247,8 @@
   "deadline" : "",
   "notification" : "",
   "date" : "2024-09-24",
-  "location" : "Cambridge, United Kingdom"
+  "location" : "Cambridge, United Kingdom",
+  "cfp" : "https://2024.cansconference.org/call-for-papers"
  },
  {
   "name" : "CASCADE",
@@ -229,7 +256,8 @@
   "deadline" : "2024-09-17T23:59:59-12:00",
   "notification" : "2024-12-01T23:59:59-12:00",
   "date" : "2025-04-02",
-  "location" : "Saint-Etienne, France"
+  "location" : "Saint-Etienne, France",
+  "cfp" : "https://cascade-conference.org/cfp.html"
  },
  {
   "name" : "CASCADE",
@@ -237,7 +265,8 @@
   "deadline" : "2024-12-17T23:59:59-12:00",
   "notification" : "2025-02-22T23:59:59-12:00",
   "date" : "2025-04-02",
-  "location" : "Saint-Etienne, France"
+  "location" : "Saint-Etienne, France",
+  "cfp" : "https://cascade-conference.org/cfp.html"
  },
  {
   "name" : "ArcticCrypt",
@@ -245,6 +274,7 @@
   "deadline" : "2024-09-13T23:59:59-12:00",
   "notification" : "2024-10-23T23:59:59-12:00",
   "date" : "2025-07-06",
-  "location" : "Longyearbyen, Svalbard"
+  "location" : "Longyearbyen, Svalbard",
+  "cfp" : "https://simula-uib.com/arcticcrypt2025"
  }
 ]
