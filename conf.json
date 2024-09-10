@@ -252,6 +252,15 @@
   "cfp" : "https://2024.cansconference.org/call-for-papers"
  },
  {
+  "name" : "SAC",
+  "rank" : "B",
+  "deadline" : "",
+  "notification" : "",
+  "date" : "2025-08-13",
+  "location" : "Toronto, Canada",
+  "cfp" : "https://sacworkshop.org/SAC25/cfp.html"
+ },
+ {
   "name" : "CASCADE",
   "rank" : "unranked",
   "deadline" : "2024-09-17T23:59:59-12:00",
