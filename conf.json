@@ -67,7 +67,7 @@
   "rank" : "A",
   "deadline" : "2024-07-15T23:59:59-12:00",
   "notification" : "2024-09-15T23:59:59-12:00",
-  "date" : "",
+  "date" : "2025-09-14",
   "location" : "Kuala Lumpur, Malaysia",
   "cfp" : "https://ches.iacr.org/2025/callforpapers.php"
  },
@@ -76,7 +76,7 @@
   "rank" : "A",
   "deadline" : "2024-10-15T23:59:59-12:00",
   "notification" : "2024-12-15T23:59:59-12:00",
-  "date" : "",
+  "date" : "2025-09-14",
   "location" : "Kuala Lumpur, Malaysia",
   "cfp" : "https://ches.iacr.org/2025/callforpapers.php"
  },
@@ -85,7 +85,7 @@
   "rank" : "A",
   "deadline" : "2025-01-15T23:59:59-12:00",
   "notification" : "2025-03-15T23:59:59-12:00",
-  "date" : "",
+  "date" : "2025-09-14",
   "location" : "Kuala Lumpur, Malaysia",
   "cfp" : "https://ches.iacr.org/2025/callforpapers.php"
  },
@@ -94,7 +94,7 @@
   "rank" : "A",
   "deadline" : "2025-04-15T23:59:59-12:00",
   "notification" : "2025-06-15T23:59:59-12:00",
-  "date" : "",
+  "date" : "2025-09-14",
   "location" : "Kuala Lumpur, Malaysia",
   "cfp" : "https://ches.iacr.org/2025/callforpapers.php"
  },
@@ -147,7 +147,7 @@
   "name" : "PKC",
   "rank" : "A",
   "deadline" : "2024-10-16T23:59:59-12:00",
-  "notification" : "",
+  "notification" : "2025-02-05T23:59:59-12:00",
   "date" : "2025-05-12",
   "location" : "Roros, Norway",
   "cfp" : "https://pkc.iacr.org/2025/callforpapers.php"
@@ -164,8 +164,8 @@
  {
   "name" : "EuroS&P",
   "rank" : "A",
-  "deadline" : "",
-  "notification" : "",
+  "deadline" : "2024-10-21T23:59:59-12:00",
+  "notification" : "2025-02-13T23:59:59-12:00",
   "date" : "2025-06-30",
   "location" : "Venice, Italy",
   "cfp" : "https://eurosp2025.ieee-security.org/cfp.html"
