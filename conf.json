@@ -101,11 +101,11 @@
  {
   "name" : "RAID",
   "rank" : "A",
-  "deadline" : "2024-04-15T23:59:59-12:00",
-  "notification" : "2024-06-24T23:59:59-12:00",
-  "date" : "2024-09-30",
-  "location" : "Padua, Italy",
-  "cfp" : "https://raid2024.github.io/call.html"
+  "deadline" : "",
+  "notification" : "",
+  "date" : "2025",
+  "location" : "Gold Coast, Australia",
+  "cfp" : "https://raid2025.github.io"
  },
  {
   "name" : "AsiaCCS",
