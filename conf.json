@@ -56,11 +56,20 @@
  {
   "name" : "CCS",
   "rank" : "A*",
-  "deadline" : "",
-  "notification" : "",
-  "date" : "",
-  "location" : "",
-  "cfp" : ""
+  "deadline" : "2025-01-09T23:59:59-12:00",
+  "notification" : "2025-03-28T23:59:59-12:00",
+  "date" : "2025-10-13",
+  "location" : "Taipei, Taiwan",
+  "cfp" : "https://www.sigsac.org/ccs/CCS2025/call-for-papers/"
+ },
+ {
+  "name" : "CCS",
+  "rank" : "A*",
+  "deadline" : "2025-04-14T23:59:59-12:00",
+  "notification" : "2025-07-01T23:59:59-12:00",
+  "date" : "2025-10-13",
+  "location" : "Taipei, Taiwan",
+  "cfp" : "https://www.sigsac.org/ccs/CCS2025/call-for-papers/"
  },
  {
   "name" : "CHES",
@@ -103,7 +112,7 @@
   "rank" : "A",
   "deadline" : "",
   "notification" : "",
-  "date" : "2025",
+  "date" : "",
   "location" : "Gold Coast, Australia",
   "cfp" : "https://raid2025.github.io"
  },
