@@ -2,11 +2,11 @@
  {
   "name" : "CRYPTO", 
   "rank" : "A*", 
-  "deadline" : "2024-02-13T23:59:59-12:00", 
-  "notification" : "2024-05-03T23:59:59-12:00",
-  "date" : "2024-08-18",
+  "deadline" : "2025-02-13T23:59:59-12:00", 
+  "notification" : "2025-05-03T23:59:59-12:00",
+  "date" : "2025-08-17",
   "location" : "Santa Barbara, CA, USA",
-  "cfp" : "https://crypto.iacr.org/2024/callforpapers.php"
+  "cfp" : "https://crypto.iacr.org/2025/callforpapers.php"
  },
  {
   "name" : "Eurocrypt",
@@ -263,8 +263,17 @@
  {
   "name" : "SAC",
   "rank" : "B",
-  "deadline" : "",
-  "notification" : "",
+  "deadline" : "2025-01-27T23:59:59-12:00",
+  "notification" : "2025-03-13T23:59:59-12:00",
+  "date" : "2025-08-13",
+  "location" : "Toronto, Canada",
+  "cfp" : "https://sacworkshop.org/SAC25/cfp.html"
+ },
+ {
+  "name" : "SAC",
+  "rank" : "B",
+  "deadline" : "2025-05-07T23:59:59-12:00",
+  "notification" : "2025-06-20T23:59:59-12:00",
   "date" : "2025-08-13",
   "location" : "Toronto, Canada",
   "cfp" : "https://sacworkshop.org/SAC25/cfp.html"
