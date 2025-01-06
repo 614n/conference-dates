@@ -164,11 +164,20 @@
  {
   "name" : "ESORICS",
   "rank" : "A",
-  "deadline" : "",
-  "notification" : "",
+  "deadline" : "2025-01-10T23:59:59-12:00",
+  "notification" : "2025-03-21T23:59:59-12:00",
   "date" : "2025-09-22",
   "location" : "Toulouse, France",
-  "cfp" : ""
+  "cfp" : "https://esorics2025.sciencesconf.org/resource/page/id/1"
+ },
+ {
+  "name" : "ESORICS",
+  "rank" : "A",
+  "deadline" : "2025-04-22T23:59:59-12:00",
+  "notification" : "2025-06-13T23:59:59-12:00",
+  "date" : "2025-09-22",
+  "location" : "Toulouse, France",
+  "cfp" : "https://esorics2025.sciencesconf.org/resource/page/id/1"
  },
  {
   "name" : "EuroS&P",
