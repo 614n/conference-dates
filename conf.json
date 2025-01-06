@@ -227,11 +227,11 @@
  {
   "name" : "ARES",
   "rank" : "B",
-  "deadline" : "",
-  "notification" : "",
-  "date" : "",
-  "location" : "",
-  "cfp" : ""
+  "deadline" : "2025-02-28T23:59:59-12:00",
+  "notification" : "2025-05-02T23:59:59-12:00",
+  "date" : "2025-08-11",
+  "location" : "Ghent, Belgium",
+  "cfp" : "https://2025.ares-conference.eu/call-for-papers/"
  },
  {
   "name" : "HOST",
