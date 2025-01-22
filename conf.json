@@ -288,6 +288,15 @@
   "cfp" : "https://sacworkshop.org/SAC25/cfp.html"
  },
  {
+  "name" : "AfricaCrypt",
+  "rank" : "C",
+  "deadline" : "2025-03-01T23:59:59-12:00",
+  "notification" : "2025-04-20T23:59:59-12:00",
+  "date" : "2025-07-21",
+  "location" : "Rabat, Morocco",
+  "cfp" : "https://africacrypt2025.sciencesconf.org/resource/page/id/10"
+ },
+ {
   "name" : "CASCADE",
   "rank" : "unranked",
   "deadline" : "2024-09-17T23:59:59-12:00",
