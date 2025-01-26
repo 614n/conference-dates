@@ -110,11 +110,11 @@
  {
   "name" : "RAID",
   "rank" : "A",
-  "deadline" : "",
-  "notification" : "",
-  "date" : "",
+  "deadline" : "2025-04-17T23:59:59-12:00",
+  "notification" : "2025-07-09T23:59:59-12:00",
+  "date" : "2025-10-19",
   "location" : "Gold Coast, Australia",
-  "cfp" : "https://raid2025.github.io"
+  "cfp" : "https://raid2025.github.io/call.html"
  },
  {
   "name" : "AsiaCCS",
