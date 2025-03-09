@@ -263,11 +263,11 @@
  {
   "name" : "CANS",
   "rank" : "B",
-  "deadline" : "",
-  "notification" : "",
-  "date" : "2024-09-24",
-  "location" : "Cambridge, United Kingdom",
-  "cfp" : "https://2024.cansconference.org/call-for-papers"
+  "deadline" : "2025-04-17T23:59:59-12:00",
+  "notification" : "2025-07-10T23:59:59-12:00",
+  "date" : "2024-11-17",
+  "location" : "Osaka, Japan",
+  "cfp" : "https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/Call%20for%20Papers.html
  },
  {
   "name" : "SAC",
