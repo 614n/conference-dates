@@ -283,9 +283,18 @@
   "rank" : "B",
   "deadline" : "2025-05-07T23:59:59-12:00",
   "notification" : "2025-06-20T23:59:59-12:00",
-  "date" : "2025-08-13",
+  "date" : "2025-10-01",
   "location" : "Toronto, Canada",
   "cfp" : "https://sacworkshop.org/SAC25/cfp.html"
+ },
+ {
+  "name" : "LatinCrypt",
+  "rank" : "B",
+  "deadline" : "2025-05-05T23:59:59-12:00",
+  "notification" : "2025-07-18T23:59:59-12:00",
+  "date" : "2025-08-13",
+  "location" : "Medellín, Colombia",
+  "cfp" : "https://ciencias.medellin.unal.edu.co/eventos/latincrypt/call-for-papers.html"
  },
  {
   "name" : "AfricaCrypt",
