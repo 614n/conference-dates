@@ -164,11 +164,11 @@
  {
   "name" : "Asiacrypt",
   "rank" : "A",
-  "deadline" : "2024-05-26T23:59:59-12:00",
-  "notification" : "2024-08-25T23:59:59-12:00",
-  "date" : "2024-12-09",
-  "location" : "Kolkata, India",
-  "cfp" : "https://asiacrypt.iacr.org/2024/callforpapers.php"
+  "deadline" : "2025-05-16T23:59:59",
+  "notification" : "2025-08-10T23:59:59-12:00",
+  "date" : "2025-12-08",
+  "location" : "Melbourne, Australia",
+  "cfp" : "https://asiacrypt.iacr.org/2025/callforpapers.php"
  },
  {
   "name" : "PKC",
