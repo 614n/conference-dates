@@ -349,5 +349,32 @@
   "date" : "2025-07-06",
   "location" : "Longyearbyen, Svalbard",
   "cfp" : "https://simula-uib.com/arcticcrypt2025"
+ },
+ {
+  "name" : "CiC",
+  "rank" : "unranked",
+  "deadline" : "2025-04-08T23:59:59-12:00",
+  "notification" : "2025-06-04T23:59:59-12:00",
+  "date" : "",
+  "location" : "(none)",
+  "cfp" : "https://cic.iacr.org/callforpapers"
+ },
+ {
+  "name" : "CiC",
+  "rank" : "unranked",
+  "deadline" : "2025-07-08T23:59:59-12:00",
+  "notification" : "2025-09-03T23:59:59-12:00",
+  "date" : "",
+  "location" : "(none)",
+  "cfp" : "https://cic.iacr.org/callforpapers"
+ },
+ {
+  "name" : "CiC",
+  "rank" : "unranked",
+  "deadline" : "2025-10-08T23:59:59-12:00",
+  "notification" : "2025-12-03T23:59:59-12:00",
+  "date" : "",
+  "location" : "(none)",
+  "cfp" : "https://cic.iacr.org/callforpapers"
  }
 ]
