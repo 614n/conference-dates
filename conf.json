@@ -20,24 +20,6 @@
  {
   "name" : "S&P",
   "rank" : "A*",
-  "deadline" : "2024-06-06T23:59:59-12:00",
-  "notification" : "2024-09-09T23:59:59-12:00",
-  "date" : "2025-05-12",
-  "location" : "San Francisco, CA, USA",
-  "cfp" : "https://sp2025.ieee-security.org/cfpapers.html"
- },
- {
-  "name" : "S&P",
-  "rank" : "A*",
-  "deadline" : "2024-11-14T23:59:59-12:00",
-  "notification" : "2025-03-10T23:59:59-12:00",
-  "date" : "2025-05-12",
-  "location" : "San Francisco, CA, USA",
-  "cfp" : "https://sp2025.ieee-security.org/cfpapers.html"
- },
- {
-  "name" : "S&P",
-  "rank" : "A*",
   "deadline" : "2025-06-05T23:59:59-12:00",
   "notification" : "2025-09-09T23:59:59-12:00",
   "date" : "2026-05-18",
