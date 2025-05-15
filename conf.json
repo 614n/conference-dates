@@ -74,38 +74,38 @@
  {
   "name" : "CHES",
   "rank" : "A",
-  "deadline" : "2024-07-15T23:59:59-12:00",
-  "notification" : "2024-09-15T23:59:59-12:00",
-  "date" : "2025-09-14",
-  "location" : "Kuala Lumpur, Malaysia",
-  "cfp" : "https://ches.iacr.org/2025/callforpapers.php"
+  "deadline" : "2025-07-15T23:59:59-12:00",
+  "notification" : "",
+  "date" : "",
+  "location" : "",
+  "cfp" : ""
  },
  {
   "name" : "CHES",
   "rank" : "A",
-  "deadline" : "2024-10-15T23:59:59-12:00",
-  "notification" : "2024-12-15T23:59:59-12:00",
-  "date" : "2025-09-14",
-  "location" : "Kuala Lumpur, Malaysia",
-  "cfp" : "https://ches.iacr.org/2025/callforpapers.php"
+  "deadline" : "2025-10-15T23:59:59-12:00",
+  "notification" : "",
+  "date" : "",
+  "location" : "",
+  "cfp" : ""
  },
  {
   "name" : "CHES",
   "rank" : "A",
-  "deadline" : "2025-01-15T23:59:59-12:00",
-  "notification" : "2025-03-15T23:59:59-12:00",
-  "date" : "2025-09-14",
-  "location" : "Kuala Lumpur, Malaysia",
-  "cfp" : "https://ches.iacr.org/2025/callforpapers.php"
+  "deadline" : "2026-01-15T23:59:59-12:00",
+  "notification" : "",
+  "date" : "",
+  "location" : "",
+  "cfp" : ""
  },
  {
   "name" : "CHES",
   "rank" : "A",
-  "deadline" : "2025-04-15T23:59:59-12:00",
-  "notification" : "2025-06-15T23:59:59-12:00",
-  "date" : "2025-09-14",
-  "location" : "Kuala Lumpur, Malaysia",
-  "cfp" : "https://ches.iacr.org/2025/callforpapers.php"
+  "deadline" : "2026-04-15T23:59:59-12:00",
+  "notification" : "",
+  "date" : "",
+  "location" : "",
+  "cfp" : ""
  },
  {
   "name" : "RAID",
