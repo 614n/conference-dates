@@ -11,11 +11,11 @@
  {
   "name" : "Eurocrypt",
   "rank" : "A*",
-  "deadline" : "2024-10-02T23:59:59-12:00",
-  "date" : "2025-05-04",
-  "notification" : "2025-01-31T23:59:59-12:00",
-  "location" : "Madrid, Spain",
-  "cfp" : "https://eurocrypt.iacr.org/2025/callforpapers.php"
+  "deadline" : "",
+  "date" : "2025-05-10",
+  "notification" : "",
+  "location" : "Rome, Italy",
+  "cfp" : ""
  },
  {
   "name" : "S&P",
@@ -245,11 +245,11 @@
  {
   "name" : "PQCrypto",
   "rank" : "B",
-  "deadline" : "2024-10-25T23:59:59-12:00",
-  "notification" : "2025-01-06T23:59:59-12:00",
-  "date" : "2025-04-08",
-  "location" : "Taipei, Taiwan",
-  "cfp" : "https://pqcrypto2025.iis.sinica.edu.tw/callforpapers.php"
+  "deadline" : "",
+  "notification" : "",
+  "date" : "2025-04-14",
+  "location" : "Saint-Malo, France",
+  "cfp" : ""
  },
  {
   "name" : "ARES",
