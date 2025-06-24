@@ -11,11 +11,11 @@
  {
   "name" : "Eurocrypt",
   "rank" : "A*",
-  "deadline" : "",
+  "deadline" : "2025-10-02T23:59:59-12:00",
   "date" : "2026-05-10",
-  "notification" : "",
+  "notification" : "2026-01-29T23:59:59-12:00",
   "location" : "Rome, Italy",
-  "cfp" : ""
+  "cfp" : "https://eurocrypt.iacr.org/2026/callforpapers.php"
  },
  {
   "name" : "S&P",
@@ -76,36 +76,36 @@
   "rank" : "A",
   "deadline" : "2025-07-15T23:59:59-12:00",
   "notification" : "",
-  "date" : "",
-  "location" : "",
-  "cfp" : ""
+  "date" : "2026-10-11",
+  "location" : "Turkey",
+  "cfp" : "https://ches.iacr.org/2026/callforpapers.php"
  },
  {
   "name" : "CHES",
   "rank" : "A",
   "deadline" : "2025-10-15T23:59:59-12:00",
   "notification" : "",
-  "date" : "",
-  "location" : "",
-  "cfp" : ""
+  "date" : "2026-10-11",
+  "location" : "Turkey",
+  "cfp" : "https://ches.iacr.org/2026/callforpapers.php"
  },
  {
   "name" : "CHES",
   "rank" : "A",
   "deadline" : "2026-01-15T23:59:59-12:00",
   "notification" : "",
-  "date" : "",
-  "location" : "",
-  "cfp" : ""
+  "date" : "2026-10-11",
+  "location" : "Turkey",
+  "cfp" : "https://ches.iacr.org/2026/callforpapers.php"
  },
  {
   "name" : "CHES",
   "rank" : "A",
   "deadline" : "2026-04-15T23:59:59-12:00",
   "notification" : "",
-  "date" : "",
-  "location" : "",
-  "cfp" : ""
+  "date" : "2026-10-11",
+  "location" : "Turkey",
+  "cfp" : "https://ches.iacr.org/2026/callforpapers.php"
  },
  {
   "name" : "RAID",
@@ -263,19 +263,19 @@
  {
   "name" : "HOST",
   "rank" : "B",
-  "deadline" : "2024-08-19T23:59:59-12:00",
-  "notification" : "2024-10-27T23:59:59-12:00",
-  "date" : "2025-05-05",
-  "location" : "San Jose, CA, USA",
+  "deadline" : "2025-08-19T23:59:59-12:00",
+  "notification" : "2025-11-28T23:59:59-12:00",
+  "date" : "2026-05-04",
+  "location" : "Washington, DC, USA",
   "cfp" : "http://www.hostsymposium.org/call-for-paper.php"
  },
  {
   "name" : "HOST",
   "rank" : "B",
-  "deadline" : "2024-12-09T23:59:59-12:00",
-  "notification" : "2025-02-17T23:59:59-12:00",
-  "date" : "2025-05-05",
-  "location" : "San Jose, CA, USA",
+  "deadline" : "2025-12-01T23:59:59-12:00",
+  "notification" : "2026-03-13T23:59:59-12:00",
+  "date" : "2026-05-04",
+  "location" : "Washington, DC, USA",
   "cfp" : "http://www.hostsymposium.org/call-for-paper.php"
  },
  {
