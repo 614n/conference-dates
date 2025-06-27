@@ -209,29 +209,29 @@
  {
   "name" : "CT-RSA",
   "rank" : "B",
-  "deadline" : "2024-10-15T23:59:59-12:00",
-  "notification" : "2025-01-10T23:59:59-12:00",
-  "date" : "2025-04-28",
+  "deadline" : "",
+  "notification" : "",
+  "date" : "",
   "location" : "San Francisco, CA, USA",
-  "cfp" : "https://ct-rsa-2025.csa.iisc.ac.in"
+  "cfp" : ""
  },
  {
   "name" : "ACNS",
   "rank" : "B",
-  "deadline" : "2024-09-09T23:59:59-12:00",
-  "notification" : "2024-11-09T23:59:59-12:00",
-  "date" : "2025-06-23",
-  "location" : "Munich, Germany",
-  "cfp" : "http://acns2025.fordaysec.de/call-for-papers"
+  "deadline" : "",
+  "notification" : "",
+  "date" : "2026-06-22",
+  "location" : "New York City, NY, USA",
+  "cfp" : "https://acns2026.github.io/cfp.html"
  },
  {
   "name" : "ACNS",
   "rank" : "B",
-  "deadline" : "2025-01-13T23:59:59-12:00",
-  "notification" : "2024-03-17T23:59:59-12:00",
-  "date" : "2025-06-23",
-  "location" : "Munich, Germany",
-  "cfp" : "http://acns2025.fordaysec.de/call-for-papers"
+  "deadline" : "",
+  "notification" : "",
+  "date" : "2026-06-22",
+  "location" : "New York City, NY, USA",
+  "cfp" : "https://acns2026.github.io/cfp.html"
  },
  {
   "name" : "DATE",
