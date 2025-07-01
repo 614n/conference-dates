@@ -200,11 +200,11 @@
  {
   "name" : "EuroS&P",
   "rank" : "A",
-  "deadline" : "2024-10-21T23:59:59-12:00",
-  "notification" : "2025-02-13T23:59:59-12:00",
-  "date" : "2025-06-30",
-  "location" : "Venice, Italy",
-  "cfp" : "https://eurosp2025.ieee-security.org/cfp.html"
+  "deadline" : "2025-11-13T23:59:59-12:00",
+  "notification" : "2026-03-05T23:59:59-12:00",
+  "date" : "2026-07-06",
+  "location" : "Lisbon, Portugal",
+  "cfp" : "https://eurosp2026.ieee-security.org/"
  },
  {
   "name" : "CT-RSA",
