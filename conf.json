@@ -173,11 +173,11 @@
  {
   "name" : "PKC",
   "rank" : "A",
-  "deadline" : "2024-10-16T23:59:59-12:00",
-  "notification" : "2025-02-05T23:59:59-12:00",
-  "date" : "2025-05-12",
-  "location" : "Roros, Norway",
-  "cfp" : "https://pkc.iacr.org/2025/callforpapers.php"
+  "deadline" : "2025-10-24T23:59:59-12:00",
+  "notification" : "2026-02-13T23:59:59-12:00",
+  "date" : "2026-05-25",
+  "location" : "West Palm Beach, USA",
+  "cfp" : "https://pkc.iacr.org/2026"
  },
  {
   "name" : "ESORICS",
