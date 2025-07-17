@@ -38,20 +38,20 @@
  {
   "name" : "Usenix Security",
   "rank" : "A*",
-  "deadline" : "2024-09-04T23:59:59-12:00",
-  "notification" : "2024-12-11T23:59:59-12:00",
-  "date" : "2025-08-13",
-  "location" : "Seattle, WA, USA",
-  "cfp" : "https://www.usenix.org/conference/usenixsecurity25/call-for-papers"
+  "deadline" : "2025-08-19T23:59:59-12:00",
+  "notification" : "",
+  "date" : "2026-08-12",
+  "location" : "Baltimore, MD, USA",
+  "cfp" : "https://www.usenix.org/conference/usenixsecurity26"
  },
  {
   "name" : "Usenix Security",
   "rank" : "A*",
-  "deadline" : "2025-01-22T23:59:59-12:00",
-  "notification" : "2025-04-30T23:59:59-12:00",
-  "date" : "2025-08-13",
-  "location" : "Seattle, WA, USA",
-  "cfp" : "https://www.usenix.org/conference/usenixsecurity25/call-for-papers"
+  "deadline" : "2026-01-26T23:59:59-12:00",
+  "notification" : "",
+  "date" : "2026-08-12",
+  "location" : "Baltimore, MD, USA",
+  "cfp" : "https://www.usenix.org/conference/usenixsecurity26"
  },
  {
   "name" : "CCS",
