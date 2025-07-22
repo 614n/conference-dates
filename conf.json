@@ -236,11 +236,11 @@
  {
   "name" : "DATE",
   "rank" : "B",
-  "deadline" : "",
-  "notification" : "",
+  "deadline" : "2025-09-07T23:59:59-12:00",
+  "notification" : "2025-11-10T23:59:59-12:00",
   "date" : "2026-04-20",
   "location" : "Verona, Italy",
-  "cfp" : "https://www.date-conference.com/date-2026-call-papers"
+  "cfp" : "https://www.date-conference.com/call-for-papers"
  },
  {
   "name" : "PQCrypto",
