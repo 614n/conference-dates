@@ -119,24 +119,6 @@
  {
   "name" : "AsiaCCS",
   "rank" : "A",
-  "deadline" : "2024-09-20T23:59:59-12:00",
-  "notification" : "2024-12-13T23:59:59-12:00",
-  "date" : "2025-08-25",
-  "location" : "Hanoi, Vietnam",
-  "cfp" : "https://asiaccs2025.hust.edu.vn/call-for-papers/"
- },
- {
-  "name" : "AsiaCCS",
-  "rank" : "A",
-  "deadline" : "2025-01-20T23:59:59-12:00",
-  "notification" : "2025-04-19T23:59:59-12:00",
-  "date" : "2025-08-25",
-  "location" : "Hanoi, Vietnam",
-  "cfp" : "https://asiaccs2025.hust.edu.vn/call-for-papers/"
- },
- {
-  "name" : "AsiaCCS",
-  "rank" : "A",
   "deadline" : "2025-08-25T23:59:59-12:00",
   "notification" : "2025-11-19T23:59:59-12:00",
   "date" : "2026-06-01",
