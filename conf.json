@@ -227,11 +227,11 @@
  {
   "name" : "PQCrypto",
   "rank" : "B",
-  "deadline" : "",
-  "notification" : "",
+  "deadline" : "2025-10-31T23:59:59-12:00",
+  "notification" : "2026-01-12T23:59:59-12:00",
   "date" : "2026-04-14",
   "location" : "Saint-Malo, France",
-  "cfp" : ""
+  "cfp" : "https://pqcrypto2026.irisa.fr/callforpapers.html"
  },
  {
   "name" : "ARES",
