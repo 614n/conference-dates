@@ -191,11 +191,11 @@
  {
   "name" : "CT-RSA",
   "rank" : "B",
-  "deadline" : "",
-  "notification" : "",
-  "date" : "",
+  "deadline" : "2025-10-24T23:59:59-12:00",
+  "notification" : "2025-12-03T23:59:59-12:00",
+  "date" : "2026-03-23",
   "location" : "San Francisco, CA, USA",
-  "cfp" : ""
+  "cfp" : "https://conference.wsu.edu/ct-rsa-2026/submission-information/"
  },
  {
   "name" : "ACNS",
