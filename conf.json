@@ -56,20 +56,20 @@
  {
   "name" : "CCS",
   "rank" : "A*",
-  "deadline" : "",
+  "deadline" : "2026-01-14T23:59:59-12:00",
   "notification" : "",
   "date" : "2026-11-15",
   "location" : "The Hague, The Netherlands",
-  "cfp" : ""
+  "cfp" : "https://www.sigsac.org/ccs/CCS2026/call-for/call-for-papers.html"
  },
  {
   "name" : "CCS",
   "rank" : "A*",
-  "deadline" : "",
+  "deadline" : "2026-04-29T23:59:59-12:00",
   "notification" : "",
   "date" : "2026-11-15",
   "location" : "The Hague, The Netherlands",
-  "cfp" : ""
+  "cfp" : "https://www.sigsac.org/ccs/CCS2026/call-for/call-for-papers.html"
  },
  {
   "name" : "CHES",
