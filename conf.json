@@ -2,11 +2,11 @@
  {
   "name" : "CRYPTO", 
   "rank" : "A*", 
-  "deadline" : "2025-02-13T23:59:59-12:00", 
-  "notification" : "2025-05-03T23:59:59-12:00",
-  "date" : "2025-08-17",
+  "deadline" : "2026-02-12T23:59:59-12:00", 
+  "notification" : "",
+  "date" : "2026-08-17",
   "location" : "Santa Barbara, CA, USA",
-  "cfp" : "https://crypto.iacr.org/2025/callforpapers.php"
+  "cfp" : "https://crypto.iacr.org/2026/callforpapers.php"
  },
  {
   "name" : "Eurocrypt",
