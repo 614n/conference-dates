@@ -299,11 +299,11 @@
  {
   "name" : "AfricaCrypt",
   "rank" : "C",
-  "deadline" : "2025-03-01T23:59:59-12:00",
-  "notification" : "2025-04-20T23:59:59-12:00",
-  "date" : "2025-07-21",
-  "location" : "Rabat, Morocco",
-  "cfp" : "https://africacrypt2025.sciencesconf.org/resource/page/id/10"
+  "deadline" : "2026-03-01T23:59:59-12:00",
+  "notification" : "2026-04-20T23:59:59-12:00",
+  "date" : "2026-07-08",
+  "location" : "Hammamet, Tunisia",
+  "cfp" : "https://www.africacrypt2026.tn/?page_id=106"
  },
  {
   "name" : "CASCADE",
