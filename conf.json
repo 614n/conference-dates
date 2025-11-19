@@ -272,8 +272,17 @@
  {
   "name" : "SAC",
   "rank" : "B",
-  "deadline" : "",
-  "notification" : "",
+  "deadline" : "2026-02-02T23:59:59-12:00",
+  "notification" : "2026-03-19T23:59:59-12:00",
+  "date" : "2026-08-26",
+  "location" : "Ottawa, Canada",
+  "cfp" : "https://sacworkshop.org/SAC26/cfp.html"
+ },
+ {
+  "name" : "SAC",
+  "rank" : "B",
+  "deadline" : "2026-05-11T23:59:59-12:00",
+  "notification" : "2025-06-25T23:59:59-12:00",
   "date" : "2026-08-26",
   "location" : "Ottawa, Canada",
   "cfp" : "https://sacworkshop.org/SAC26/cfp.html"
