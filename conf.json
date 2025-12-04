@@ -6,7 +6,8 @@
   "notification" : "",
   "date" : "2026-08-17",
   "location" : "Santa Barbara, CA, USA",
-  "cfp" : "https://crypto.iacr.org/2026/callforpapers.php"
+  "cfp" : "https://crypto.iacr.org/2026/callforpapers.php",
+  "locrank" : "A"
  },
  {
   "name" : "Eurocrypt",
@@ -15,7 +16,8 @@
   "date" : "2026-05-10",
   "notification" : "2026-01-29T23:59:59-12:00",
   "location" : "Rome, Italy",
-  "cfp" : "https://eurocrypt.iacr.org/2026/callforpapers.php"
+  "cfp" : "https://eurocrypt.iacr.org/2026/callforpapers.php",
+  "locrank" : "A*"
  },
  {
   "name" : "S&P",
@@ -24,7 +26,8 @@
   "notification" : "2025-09-09T23:59:59-12:00",
   "date" : "2026-05-18",
   "location" : "San Francisco, CA, USA",
-  "cfp" : "https://sp2026.ieee-security.org/cfpapers.html"
+  "cfp" : "https://sp2026.ieee-security.org/cfpapers.html",
+  "locrank" : "A"
  },
  {
   "name" : "S&P",
@@ -33,7 +36,8 @@
   "notification" : "2025-03-19T23:59:59-12:00",
   "date" : "2026-05-18",
   "location" : "San Francisco, CA, USA",
-  "cfp" : "https://sp2026.ieee-security.org/cfpapers.html"
+  "cfp" : "https://sp2026.ieee-security.org/cfpapers.html",
+  "locrank" : "A"
  },
  {
   "name" : "Usenix Security",
@@ -42,7 +46,8 @@
   "notification" : "",
   "date" : "2026-08-12",
   "location" : "Baltimore, MD, USA",
-  "cfp" : "https://www.usenix.org/conference/usenixsecurity26"
+  "cfp" : "https://www.usenix.org/conference/usenixsecurity26",
+  "locrank" : "B"
  },
  {
   "name" : "Usenix Security",
@@ -51,7 +56,8 @@
   "notification" : "",
   "date" : "2026-08-12",
   "location" : "Baltimore, MD, USA",
-  "cfp" : "https://www.usenix.org/conference/usenixsecurity26"
+  "cfp" : "https://www.usenix.org/conference/usenixsecurity26",,
+  "locrank" : "B"
  },
  {
   "name" : "CCS",
@@ -60,7 +66,8 @@
   "notification" : "",
   "date" : "2026-11-15",
   "location" : "The Hague, The Netherlands",
-  "cfp" : "https://www.sigsac.org/ccs/CCS2026/call-for/call-for-papers.html"
+  "cfp" : "https://www.sigsac.org/ccs/CCS2026/call-for/call-for-papers.html",
+  "locrank" : "B"
  },
  {
   "name" : "CCS",
@@ -69,7 +76,8 @@
   "notification" : "",
   "date" : "2026-11-15",
   "location" : "The Hague, The Netherlands",
-  "cfp" : "https://www.sigsac.org/ccs/CCS2026/call-for/call-for-papers.html"
+  "cfp" : "https://www.sigsac.org/ccs/CCS2026/call-for/call-for-papers.html",
+  "locrank" : "B"
  },
  {
   "name" : "CHES",
@@ -78,7 +86,8 @@
   "notification" : "2025-09-15T23:59:59-12:00",
   "date" : "2026-10-11",
   "location" : "Turkey",
-  "cfp" : "https://ches.iacr.org/2026/callforpapers.php"
+  "cfp" : "https://ches.iacr.org/2026/callforpapers.php",
+  "locrank" : "B"
  },
  {
   "name" : "CHES",
@@ -87,7 +96,8 @@
   "notification" : "2025-12-15T23:59:59-12:00",
   "date" : "2026-10-11",
   "location" : "Turkey",
-  "cfp" : "https://ches.iacr.org/2026/callforpapers.php"
+  "cfp" : "https://ches.iacr.org/2026/callforpapers.php",
+  "locrank" : "B"
  },
  {
   "name" : "CHES",
@@ -96,7 +106,8 @@
   "notification" : "2026-03-15T23:59:59-12:00",
   "date" : "2026-10-11",
   "location" : "Turkey",
-  "cfp" : "https://ches.iacr.org/2026/callforpapers.php"
+  "cfp" : "https://ches.iacr.org/2026/callforpapers.php",
+  "locrank" : "B"
  },
  {
   "name" : "CHES",
@@ -105,7 +116,8 @@
   "notification" : "2026-06-15T23:59:59-12:00",
   "date" : "2026-10-11",
   "location" : "Turkey",
-  "cfp" : "https://ches.iacr.org/2026/callforpapers.php"
+  "cfp" : "https://ches.iacr.org/2026/callforpapers.php",
+  "locrank" : "B"
  },
  {
   "name" : "Financial Crypto",
@@ -114,7 +126,8 @@
   "notification" : "2025-11-24T23:59:59-12:00",
   "date" : "2026-03-02",
   "location" : "St. Kitts",
-  "cfp" : "https://fc26.ifca.ai/cfp.html"
+  "cfp" : "https://fc26.ifca.ai/cfp.html",
+  "locrank" : "A*"
  },
  {
   "name" : "RAID",
@@ -123,7 +136,8 @@
   "notification" : "2025-07-09T23:59:59-12:00",
   "date" : "2025-10-19",
   "location" : "Gold Coast, Australia",
-  "cfp" : "https://raid2025.github.io/call.html"
+  "cfp" : "https://raid2025.github.io/call.html",
+  "locrank" : "A*"
  },
  {
   "name" : "AsiaCCS",
@@ -132,7 +146,8 @@
   "notification" : "2025-11-19T23:59:59-12:00",
   "date" : "2026-06-01",
   "location" : "Bangalore, India",
-  "cfp" : "https://asiaccs2026.cse.iitkgp.ac.in/call-for-papers/"
+  "cfp" : "https://asiaccs2026.cse.iitkgp.ac.in/call-for-papers/",
+  "locrank" : "C"
  },
  {
   "name" : "AsiaCCS",
@@ -141,7 +156,8 @@
   "notification" : "2026-03-10T23:59:59-12:00",
   "date" : "2026-06-01",
   "location" : "Bangalore, India",
-  "cfp" : "https://asiaccs2026.cse.iitkgp.ac.in/call-for-papers/"
+  "cfp" : "https://asiaccs2026.cse.iitkgp.ac.in/call-for-papers/",
+  "locrank" : "C"
  },
  {
   "name" : "ACSAC",
@@ -150,7 +166,8 @@
   "notification" : "2025-09-03T23:59:59-12:00",
   "date" : "2025-12-09",
   "location" : "Honolulu, HI, USA",
-  "cfp" : "https://www.acsac.org/2025/submissions/"
+  "cfp" : "https://www.acsac.org/2025/submissions/",
+  "locrank" : "A*"
  },
  {
   "name" : "Asiacrypt",
@@ -159,7 +176,8 @@
   "notification" : "2025-08-10T23:59:59-12:00",
   "date" : "2025-12-08",
   "location" : "Melbourne, Australia",
-  "cfp" : "https://asiacrypt.iacr.org/2025/callforpapers.php"
+  "cfp" : "https://asiacrypt.iacr.org/2025/callforpapers.php",
+  "locrank" : "A*"
  },
  {
   "name" : "PKC",
@@ -168,7 +186,8 @@
   "notification" : "2026-02-13T23:59:59-12:00",
   "date" : "2026-05-25",
   "location" : "West Palm Beach, USA",
-  "cfp" : "https://pkc.iacr.org/2026"
+  "cfp" : "https://pkc.iacr.org/2026",
+  "locrank" : "A"
  },
  {
   "name" : "ESORICS",
@@ -177,7 +196,8 @@
   "notification" : "2025-03-21T23:59:59-12:00",
   "date" : "2025-09-22",
   "location" : "Toulouse, France",
-  "cfp" : "https://esorics2025.sciencesconf.org/resource/page/id/1"
+  "cfp" : "https://esorics2025.sciencesconf.org/resource/page/id/1",
+  "locrank" : "B"
  },
  {
   "name" : "ESORICS",
@@ -186,7 +206,8 @@
   "notification" : "2025-06-13T23:59:59-12:00",
   "date" : "2025-09-22",
   "location" : "Toulouse, France",
-  "cfp" : "https://esorics2025.sciencesconf.org/resource/page/id/1"
+  "cfp" : "https://esorics2025.sciencesconf.org/resource/page/id/1",
+  "locrank" : "B"
  },
  {
   "name" : "EuroS&P",
@@ -195,7 +216,8 @@
   "notification" : "2026-03-05T23:59:59-12:00",
   "date" : "2026-07-06",
   "location" : "Lisbon, Portugal",
-  "cfp" : "https://eurosp2026.ieee-security.org/"
+  "cfp" : "https://eurosp2026.ieee-security.org/",
+  "locrank" : "A"
  },
  {
   "name" : "CT-RSA",
@@ -204,7 +226,8 @@
   "notification" : "2025-12-03T23:59:59-12:00",
   "date" : "2026-03-23",
   "location" : "San Francisco, CA, USA",
-  "cfp" : "https://conference.wsu.edu/ct-rsa-2026/submission-information/"
+  "cfp" : "https://conference.wsu.edu/ct-rsa-2026/submission-information/",
+  "locrank" : "A"
  },
  {
   "name" : "ACNS",
@@ -213,7 +236,8 @@
   "notification" : "2025-11-20T23:59:59-12:00",
   "date" : "2026-06-22",
   "location" : "New York City, NY, USA",
-  "cfp" : "https://acns2026.github.io/cfp.html"
+  "cfp" : "https://acns2026.github.io/cfp.html",
+  "locrank" : "A"
  },
  {
   "name" : "ACNS",
@@ -222,7 +246,8 @@
   "notification" : "2026-03-19T23:59:59-12:00",
   "date" : "2026-06-22",
   "location" : "New York City, NY, USA",
-  "cfp" : "https://acns2026.github.io/cfp.html"
+  "cfp" : "https://acns2026.github.io/cfp.html",
+  "locrank" : "A"
  },
  {
   "name" : "DATE",
@@ -231,7 +256,8 @@
   "notification" : "2025-11-10T23:59:59-12:00",
   "date" : "2026-04-20",
   "location" : "Verona, Italy",
-  "cfp" : "https://www.date-conference.com/call-for-papers"
+  "cfp" : "https://www.date-conference.com/call-for-papers",
+  "locrank" : "A"
  },
  {
   "name" : "PQCrypto",
@@ -240,7 +266,8 @@
   "notification" : "2026-01-12T23:59:59-12:00",
   "date" : "2026-04-14",
   "location" : "Saint-Malo, France",
-  "cfp" : "https://pqcrypto2026.irisa.fr/callforpapers.html"
+  "cfp" : "https://pqcrypto2026.irisa.fr/callforpapers.html",
+  "locrank" : "B"
  },
  {
   "name" : "ARES",
@@ -249,7 +276,8 @@
   "notification" : "",
   "date" : "2026-08-24",
   "location" : "Linköping, Sweden",
-  "cfp" : ""
+  "cfp" : "",
+  "locrank" : "B"
  },
  {
   "name" : "HOST",
@@ -258,7 +286,8 @@
   "notification" : "2025-11-28T23:59:59-12:00",
   "date" : "2026-05-04",
   "location" : "Washington, DC, USA",
-  "cfp" : "http://www.hostsymposium.org/call-for-paper.php"
+  "cfp" : "http://www.hostsymposium.org/call-for-paper.php",
+  "locrank" : "A"
  },
  {
   "name" : "HOST",
@@ -267,7 +296,8 @@
   "notification" : "2026-03-13T23:59:59-12:00",
   "date" : "2026-05-04",
   "location" : "Washington, DC, USA",
-  "cfp" : "http://www.hostsymposium.org/call-for-paper.php"
+  "cfp" : "http://www.hostsymposium.org/call-for-paper.php",
+  "locrank" : "A"
  },
  {
   "name" : "CANS",
@@ -276,7 +306,8 @@
   "notification" : "2025-07-10T23:59:59-12:00",
   "date" : "2025-11-17",
   "location" : "Osaka, Japan",
-  "cfp" : "https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/Call%20for%20Papers.html"
+  "cfp" : "https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/Call%20for%20Papers.html",
+  "locrank" : "A*"
  },
  {
   "name" : "SAC",
@@ -285,7 +316,8 @@
   "notification" : "2026-03-19T23:59:59-12:00",
   "date" : "2026-08-26",
   "location" : "Ottawa, Canada",
-  "cfp" : "https://sacworkshop.org/SAC26/cfp.html"
+  "cfp" : "https://sacworkshop.org/SAC26/cfp.html",
+  "locrank" : "A"
  },
  {
   "name" : "SAC",
@@ -294,7 +326,8 @@
   "notification" : "2025-06-25T23:59:59-12:00",
   "date" : "2026-08-26",
   "location" : "Ottawa, Canada",
-  "cfp" : "https://sacworkshop.org/SAC26/cfp.html"
+  "cfp" : "https://sacworkshop.org/SAC26/cfp.html",
+  "locrank" : "A"
  },
  {
   "name" : "LatinCrypt",
@@ -303,7 +336,8 @@
   "notification" : "2025-07-18T23:59:59-12:00",
   "date" : "2025-08-13",
   "location" : "Medellin, Colombia",
-  "cfp" : "https://ciencias.medellin.unal.edu.co/eventos/latincrypt/call-for-papers.html"
+  "cfp" : "https://ciencias.medellin.unal.edu.co/eventos/latincrypt/call-for-papers.html",
+  "locrank" : "A"
  },
  {
   "name" : "AfricaCrypt",
@@ -312,7 +346,8 @@
   "notification" : "2026-04-20T23:59:59-12:00",
   "date" : "2026-07-08",
   "location" : "Hammamet, Tunisia",
-  "cfp" : "https://www.africacrypt2026.tn/?page_id=106"
+  "cfp" : "https://www.africacrypt2026.tn/?page_id=106",
+  "locrank" : "B"
  },
  {
   "name" : "CASCADE",
@@ -321,7 +356,8 @@
   "notification" : "2025-09-10T23:59:59-12:00",
   "date" : "2026-03-30",
   "location" : "Regensburg, Germany",
-  "cfp" : "https://cascade-conference.org/cfp.html"
+  "cfp" : "https://cascade-conference.org/cfp.html",
+  "locrank" : "C"
  },
  {
   "name" : "CASCADE",
@@ -330,7 +366,8 @@
   "notification" : "2026-02-05T23:59:59-12:00",
   "date" : "2026-03-30",
   "location" : "Regensburg, Germany",
-  "cfp" : "https://cascade-conference.org/cfp.html"
+  "cfp" : "https://cascade-conference.org/cfp.html",
+  "locrank" : "C"
  },
  {
   "name" : "ArcticCrypt",
@@ -339,7 +376,8 @@
   "notification" : "2024-10-23T23:59:59-12:00",
   "date" : "2025-07-06",
   "location" : "Longyearbyen, Svalbard",
-  "cfp" : "https://simula-uib.com/arcticcrypt2025"
+  "cfp" : "https://simula-uib.com/arcticcrypt2025",
+  "locrank" : "A*"
  },
  {
   "name" : "CiC",
@@ -348,7 +386,8 @@
   "notification" : "2025-06-04T23:59:59-12:00",
   "date" : "",
   "location" : "(none)",
-  "cfp" : "https://cic.iacr.org/callforpapers"
+  "cfp" : "https://cic.iacr.org/callforpapers",
+  "locrank" : ""
  },
  {
   "name" : "CiC",
@@ -357,7 +396,8 @@
   "notification" : "2025-09-03T23:59:59-12:00",
   "date" : "",
   "location" : "(none)",
-  "cfp" : "https://cic.iacr.org/callforpapers"
+  "cfp" : "https://cic.iacr.org/callforpapers",
+  "locrank" : ""
  },
  {
   "name" : "CiC",
@@ -366,6 +406,7 @@
   "notification" : "2025-12-03T23:59:59-12:00",
   "date" : "",
   "location" : "(none)",
-  "cfp" : "https://cic.iacr.org/callforpapers"
+  "cfp" : "https://cic.iacr.org/callforpapers",
+  "locrank" : ""
  }
 ]
