@@ -108,6 +108,15 @@
   "cfp" : "https://ches.iacr.org/2026/callforpapers.php"
  },
  {
+  "name" : "Financial Crypto",
+  "rank" : "A",
+  "deadline" : "2025-09-20T23:59:59-12:00",
+  "notification" : "2025-11-24T23:59:59-12:00",
+  "date" : "2026-03-02",
+  "location" : "St. Kitts",
+  "cfp" : "https://fc26.ifca.ai/cfp.html"
+ },
+ {
   "name" : "RAID",
   "rank" : "A",
   "deadline" : "2025-04-17T23:59:59-12:00",
