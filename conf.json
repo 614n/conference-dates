@@ -146,11 +146,11 @@
  {
   "name" : "ACSAC",
   "rank" : "A",
-  "deadline" : "2025-05-30T23:59:59-12:00",
-  "notification" : "2025-09-03T23:59:59-12:00",
-  "date" : "2025-12-09",
-  "location" : "Honolulu, HI, USA",
-  "cfp" : "https://www.acsac.org/2025/submissions/"
+  "deadline" : "",
+  "notification" : "",
+  "date" : "2026-12-07",
+  "location" : "Los Angeles, CA, USA",
+  "cfp" : "https://www.acsac.org/"
  },
  {
   "name" : "Asiacrypt",
@@ -173,20 +173,20 @@
  {
   "name" : "ESORICS",
   "rank" : "A",
-  "deadline" : "2025-01-10T23:59:59-12:00",
-  "notification" : "2025-03-21T23:59:59-12:00",
-  "date" : "2025-09-22",
-  "location" : "Toulouse, France",
-  "cfp" : "https://esorics2025.sciencesconf.org/resource/page/id/1"
+  "deadline" : "2026-01-09T23:59:59-12:00",
+  "notification" : "2026-03-10T23:59:59-12:00",
+  "date" : "2026-09-21",
+  "location" : "Rome, Italy",
+  "cfp" : "https://sites.google.com/di.uniroma1.it/esorics2026/call-for/papers"
  },
  {
   "name" : "ESORICS",
   "rank" : "A",
-  "deadline" : "2025-04-22T23:59:59-12:00",
-  "notification" : "2025-06-13T23:59:59-12:00",
-  "date" : "2025-09-22",
-  "location" : "Toulouse, France",
-  "cfp" : "https://esorics2025.sciencesconf.org/resource/page/id/1"
+  "deadline" : "2026-04-21T23:59:59-12:00",
+  "notification" : "2026-06-12T23:59:59-12:00",
+  "date" : "2026-09-21",
+  "location" : "Rome, Italy",
+  "cfp" : "https://sites.google.com/di.uniroma1.it/esorics2026/call-for/papers"
  },
  {
   "name" : "EuroS&P",
@@ -245,11 +245,11 @@
  {
   "name" : "ARES",
   "rank" : "B",
-  "deadline" : "",
-  "notification" : "",
+  "deadline" : "2026-03-02T23:59:59-12:00",
+  "notification" : "2026-05-13T23:59:59-12:00",
   "date" : "2026-08-24",
   "location" : "Linköping, Sweden",
-  "cfp" : ""
+  "cfp" : "https://www.ares-conference.eu/open-calls"
  },
  {
   "name" : "HOST",
@@ -344,8 +344,8 @@
  {
   "name" : "CiC",
   "rank" : "unranked",
-  "deadline" : "2025-04-08T23:59:59-12:00",
-  "notification" : "2025-06-04T23:59:59-12:00",
+  "deadline" : "2026-02-02T23:59:59-12:00",
+  "notification" : "2026-03-31T23:59:59-12:00",
   "date" : "",
   "location" : "(none)",
   "cfp" : "https://cic.iacr.org/callforpapers"
@@ -353,8 +353,8 @@
  {
   "name" : "CiC",
   "rank" : "unranked",
-  "deadline" : "2025-07-08T23:59:59-12:00",
-  "notification" : "2025-09-03T23:59:59-12:00",
+  "deadline" : "2026-04-27T23:59:59-12:00",
+  "notification" : "2026-06-23T23:59:59-12:00",
   "date" : "",
   "location" : "(none)",
   "cfp" : "https://cic.iacr.org/callforpapers"
@@ -362,8 +362,17 @@
  {
   "name" : "CiC",
   "rank" : "unranked",
-  "deadline" : "2025-10-08T23:59:59-12:00",
-  "notification" : "2025-12-03T23:59:59-12:00",
+  "deadline" : "2026-07-27T23:59:59-12:00",
+  "notification" : "2026-09-22T23:59:59-12:00",
+  "date" : "",
+  "location" : "(none)",
+  "cfp" : "https://cic.iacr.org/callforpapers"
+ },
+ {
+  "name" : "CiC",
+  "rank" : "unranked",
+  "deadline" : "2026-10-26T23:59:59-12:00",
+  "notification" : "2026-12-22T23:59:59-12:00",
   "date" : "",
   "location" : "(none)",
   "cfp" : "https://cic.iacr.org/callforpapers"
