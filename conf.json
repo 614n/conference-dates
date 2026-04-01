@@ -74,29 +74,29 @@
  {
   "name" : "CHES",
   "rank" : "A",
-  "deadline" : "2025-07-15T23:59:59-12:00",
-  "notification" : "2025-09-15T23:59:59-12:00",
-  "date" : "2026-10-11",
-  "location" : "Turkey",
-  "cfp" : "https://ches.iacr.org/2026/callforpapers.php"
+  "deadline" : "2026-07-15T23:59:59-12:00",
+  "notification" : "2026-09-15T23:59:59-12:00",
+  "date" : "",
+  "location" : "",
+  "cfp" : ""
  },
  {
   "name" : "CHES",
   "rank" : "A",
-  "deadline" : "2025-10-15T23:59:59-12:00",
-  "notification" : "2025-12-15T23:59:59-12:00",
-  "date" : "2026-10-11",
-  "location" : "Turkey",
-  "cfp" : "https://ches.iacr.org/2026/callforpapers.php"
+  "deadline" : "2026-10-15T23:59:59-12:00",
+  "notification" : "2026-12-15T23:59:59-12:00",
+  "date" : "",
+  "location" : "",
+  "cfp" : ""
  },
  {
   "name" : "CHES",
   "rank" : "A",
-  "deadline" : "2026-01-15T23:59:59-12:00",
-  "notification" : "2026-03-15T23:59:59-12:00",
-  "date" : "2026-10-11",
-  "location" : "Turkey",
-  "cfp" : "https://ches.iacr.org/2026/callforpapers.php"
+  "deadline" : "2027-01-15T23:59:59-12:00",
+  "notification" : "2027-03-15T23:59:59-12:00",
+  "date" : "",
+  "location" : "",
+  "cfp" : ""
  },
  {
   "name" : "CHES",
@@ -223,6 +223,15 @@
   "date" : "2026-06-22",
   "location" : "New York City, NY, USA",
   "cfp" : "https://acns2026.github.io/cfp.html"
+ },
+ {
+  "name" : "ACNS",
+  "rank" : "B",
+  "deadline" : "",
+  "notification" : "",
+  "date" : "2027-06-28",
+  "location" : "Egham, UK (Royal Holloway)",
+  "cfp" : "https://acns2027.isg.rhul.ac.uk/calls/papers/"
  },
  {
   "name" : "DATE",
