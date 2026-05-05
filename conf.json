@@ -281,8 +281,8 @@
  {
   "name" : "CANS",
   "rank" : "B",
-  "deadline" : "",
-  "notification" : "",
+  "deadline" : "2026-06-10T23:59:59-12:00",
+  "notification" : "2026-08-10T23:59:59-12:00",
   "date" : "2026-11-23",
   "location" : "Wollongong, Australia",
   "cfp" : "https://uow-ic2.github.io/cans2026/cfp.html"
