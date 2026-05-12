@@ -54,6 +54,24 @@
   "cfp" : "https://www.usenix.org/conference/usenixsecurity26"
  },
  {
+  "name" : "Usenix Security",
+  "rank" : "A*",
+  "deadline" : "2026-08-18T23:59:59-12:00",
+  "notification" : "",
+  "date" : "2027-08-11",
+  "location" : "Denver, CO, USA",
+  "cfp" : "https://www.usenix.org/conference/usenixsecurity27"
+ },
+ {
+  "name" : "Usenix Security",
+  "rank" : "A*",
+  "deadline" : "2027-01-19T23:59:59-12:00",
+  "notification" : "",
+  "date" : "2027-08-11",
+  "location" : "Denver, CO, USA",
+  "cfp" : "https://www.usenix.org/conference/usenixsecurity27"
+ },
+ {
   "name" : "CCS",
   "rank" : "A*",
   "deadline" : "2026-01-14T23:59:59-12:00",
