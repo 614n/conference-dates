@@ -245,8 +245,17 @@
  {
   "name" : "ACNS",
   "rank" : "B",
-  "deadline" : "",
-  "notification" : "",
+  "deadline" : "2026-09-24T23:59:59-12:00",
+  "notification" : "2026-11-26T23:59:59-12:00",
+  "date" : "2027-06-28",
+  "location" : "Egham, UK (Royal Holloway)",
+  "cfp" : "https://acns2027.isg.rhul.ac.uk/calls/papers/"
+ },
+ {
+  "name" : "ACNS",
+  "rank" : "B",
+  "deadline" : "2027-01-21T23:59:59-12:00",
+  "notification" : "2027-03-25T23:59:59-12:00",
   "date" : "2027-06-28",
   "location" : "Egham, UK (Royal Holloway)",
   "cfp" : "https://acns2027.isg.rhul.ac.uk/calls/papers/"
