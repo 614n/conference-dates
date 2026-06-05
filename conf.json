@@ -146,20 +146,20 @@
  {
   "name" : "AsiaCCS",
   "rank" : "A",
-  "deadline" : "2025-08-25T23:59:59-12:00",
-  "notification" : "2025-11-19T23:59:59-12:00",
-  "date" : "2026-06-01",
-  "location" : "Bangalore, India",
-  "cfp" : "https://asiaccs2026.cse.iitkgp.ac.in/call-for-papers/"
+  "deadline" : "2026-08-21T23:59:59-12:00",
+  "notification" : "2025-11-13T23:59:59-12:00",
+  "date" : "2027-07-12",
+  "location" : "Macau",
+  "cfp" : "https://asiaccs2027.cityu.edu.mo/"
  },
  {
   "name" : "AsiaCCS",
   "rank" : "A",
-  "deadline" : "2025-12-12T23:59:59-12:00",
-  "notification" : "2026-03-10T23:59:59-12:00",
-  "date" : "2026-06-01",
-  "location" : "Bangalore, India",
-  "cfp" : "https://asiaccs2026.cse.iitkgp.ac.in/call-for-papers/"
+  "deadline" : "2026-12-11T23:59:59-12:00",
+  "notification" : "2027-03-31T23:59:59-12:00",
+  "date" : "2027-07-12",
+  "location" : "Macau",
+  "cfp" : "https://asiaccs2027.cityu.edu.mo/"
  },
  {
   "name" : "ACSAC",
@@ -326,20 +326,20 @@
  {
   "name" : "HOST",
   "rank" : "unranked",
-  "deadline" : "2025-08-19T23:59:59-12:00",
-  "notification" : "2025-11-28T23:59:59-12:00",
-  "date" : "2026-05-04",
+  "deadline" : "2026-07-26T23:59:59-12:00",
+  "notification" : "2026-10-22T23:59:59-12:00",
+  "date" : "",
   "location" : "Washington, DC, USA",
-  "cfp" : "http://www.hostsymposium.org/call-for-paper.php"
+  "cfp" : "https://host.conferences.computer.org/2027/call-for-papers/"
  },
  {
   "name" : "HOST",
   "rank" : "unranked",
-  "deadline" : "2025-12-01T23:59:59-12:00",
-  "notification" : "2026-03-13T23:59:59-12:00",
-  "date" : "2026-05-04",
+  "deadline" : "2026-11-01T23:59:59-12:00",
+  "notification" : "2027-02-09T23:59:59-12:00",
+  "date" : "",
   "location" : "Washington, DC, USA",
-  "cfp" : "http://www.hostsymposium.org/call-for-paper.php"
+  "cfp" : "https://host.conferences.computer.org/2027/call-for-papers/"
  },
  {
   "name" : "CANS",
