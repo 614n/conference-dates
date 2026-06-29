@@ -254,11 +254,11 @@
  {
   "name" : "CT-RSA",
   "rank" : "B",
-  "deadline" : "2025-10-24T23:59:59-12:00",
-  "notification" : "2025-12-03T23:59:59-12:00",
-  "date" : "2026-03-23",
+  "deadline" : "2026-10-22T23:59:59-12:00",
+  "notification" : "2026-12-03T23:59:59-12:00",
+  "date" : "2027-04-05",
   "location" : "San Francisco, CA, USA",
-  "cfp" : "https://conference.wsu.edu/ct-rsa-2026/submission-information/"
+  "cfp" : "https://www.esat.kuleuven.be/cosic/events/ct-rsa-2027/"
  },
  {
   "name" : "ACNS",
