@@ -94,36 +94,36 @@
   "rank" : "A",
   "deadline" : "2026-07-15T23:59:59-12:00",
   "notification" : "2026-09-15T23:59:59-12:00",
-  "date" : "",
-  "location" : "",
-  "cfp" : ""
+  "date" : "2027-09-06",
+  "location" : "Cancun, Mexico",
+  "cfp" : "https://ches.iacr.org/2027/callforpapers.php"
  },
  {
   "name" : "CHES / TCHES",
   "rank" : "A",
   "deadline" : "2026-10-15T23:59:59-12:00",
   "notification" : "2026-12-15T23:59:59-12:00",
-  "date" : "",
-  "location" : "",
-  "cfp" : ""
+  "date" : "2027-09-06",
+  "location" : "Cancun, Mexico",
+  "cfp" : "https://ches.iacr.org/2027/callforpapers.php"
  },
  {
   "name" : "CHES / TCHES",
   "rank" : "A",
   "deadline" : "2027-01-15T23:59:59-12:00",
   "notification" : "2027-03-15T23:59:59-12:00",
-  "date" : "",
-  "location" : "",
-  "cfp" : ""
+  "date" : "2027-09-06",
+  "location" : "Cancun, Mexico",
+  "cfp" : "https://ches.iacr.org/2027/callforpapers.php"
  },
  {
   "name" : "CHES / TCHES",
   "rank" : "A",
-  "deadline" : "2026-04-15T23:59:59-12:00",
-  "notification" : "2026-06-15T23:59:59-12:00",
-  "date" : "2026-10-11",
-  "location" : "Turkey",
-  "cfp" : "https://ches.iacr.org/2026/callforpapers.php"
+  "deadline" : "2027-04-15T23:59:59-12:00",
+  "notification" : "2027-06-15T23:59:59-12:00",
+  "date" : "2027-09-06",
+  "location" : "Cancun, Mexico",
+  "cfp" : "https://ches.iacr.org/2027/callforpapers.php"
  },
  {
   "name" : "Financial Crypto",
