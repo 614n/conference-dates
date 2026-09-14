@@ -38,24 +38,6 @@
  {
   "name" : "Usenix Security",
   "rank" : "A*",
-  "deadline" : "2025-08-19T23:59:59-12:00",
-  "notification" : "",
-  "date" : "2026-08-12",
-  "location" : "Baltimore, MD, USA",
-  "cfp" : "https://www.usenix.org/conference/usenixsecurity26"
- },
- {
-  "name" : "Usenix Security",
-  "rank" : "A*",
-  "deadline" : "2026-01-26T23:59:59-12:00",
-  "notification" : "",
-  "date" : "2026-08-12",
-  "location" : "Baltimore, MD, USA",
-  "cfp" : "https://www.usenix.org/conference/usenixsecurity26"
- },
- {
-  "name" : "Usenix Security",
-  "rank" : "A*",
   "deadline" : "2026-08-18T23:59:59-12:00",
   "notification" : "",
   "date" : "2027-08-11",
@@ -245,11 +227,11 @@
  {
   "name" : "EuroS&P",
   "rank" : "A",
-  "deadline" : "2025-11-13T23:59:59-12:00",
-  "notification" : "2026-03-05T23:59:59-12:00",
-  "date" : "2026-07-06",
-  "location" : "Lisbon, Portugal",
-  "cfp" : "https://eurosp2026.ieee-security.org/"
+  "deadline" : "2026-11-25T23:59:59-12:00",
+  "notification" : "2027-03-18T23:59:59-12:00",
+  "date" : "2027-07-05",
+  "location" : "Madrid, Spain",
+  "cfp" : "https://eurosp2027.ieee-security.org/cfp.html"
  },
  {
   "name" : "CT-RSA",
