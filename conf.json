@@ -209,20 +209,11 @@
  {
   "name" : "ESORICS",
   "rank" : "A",
-  "deadline" : "2026-01-09T23:59:59-12:00",
-  "notification" : "2026-03-10T23:59:59-12:00",
-  "date" : "2026-09-21",
-  "location" : "Rome, Italy",
-  "cfp" : "https://sites.google.com/di.uniroma1.it/esorics2026/call-for/papers"
- },
- {
-  "name" : "ESORICS",
-  "rank" : "A",
-  "deadline" : "2026-04-21T23:59:59-12:00",
-  "notification" : "2026-06-12T23:59:59-12:00",
-  "date" : "2026-09-21",
-  "location" : "Rome, Italy",
-  "cfp" : "https://sites.google.com/di.uniroma1.it/esorics2026/call-for/papers"
+  "deadline" : "",
+  "notification" : "",
+  "date" : "2027-09-13",
+  "location" : "Vienna, Austria",
+  "cfp" : ""
  },
  {
   "name" : "EuroS&P",
@@ -272,11 +263,11 @@
  {
   "name" : "PQCrypto",
   "rank" : "C",
-  "deadline" : "2025-10-31T23:59:59-12:00",
-  "notification" : "2026-01-12T23:59:59-12:00",
-  "date" : "2026-04-14",
-  "location" : "Saint-Malo, France",
-  "cfp" : "https://pqcrypto2026.irisa.fr/callforpapers.html"
+  "deadline" : "2026-11-17T23:59:59-12:00",
+  "notification" : "2027-02-03T23:59:59-12:00",
+  "date" : "2027-05-12",
+  "location" : "Waterloo, ON, Canada",
+  "cfp" : "https://easychair.org/cfp/pqcrypto2027"
  },
  {
   "name" : "ARES",
